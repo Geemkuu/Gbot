@@ -19,14 +19,14 @@ global.socialm = "GitHub: Geemkuu" //ur github or insta name
 global.location = "Africa,Kenya,Nairobi" //ur location
 
 //new
-global.botname = 'nonesence' //ur bot name
+global.botname = '★彡ＮＯＮＳＥＮＳＥ 彡★' //ur bot name
 global.ownernumber = '254794286079' //ur owner number
-global.ownername =  'GEE' //ur owner name
+global.ownername =  '꧁༒☬gee☬༒꧂' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🤖'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
+global.wagc = "https://chat.whatsapp.com/DSQwxQR6Nww8cM5SDZbLNl"
+global.themeemoji = '😂'
+global.wm = "🇬 🇪 🇪 ."
+global.botscript = 'https://github.com/Geemkuu/Cheems11' //script link
 global.packname = "Sticker By"
 global.author = "gee\n\n+254794286079"
 global.creator = "254794286079@s.whatsapp.net"

@@ -28,15 +28,15 @@ global.themeemoji = '😂'
 global.wm = "🇬 🇪 🇪 ."
 global.botscript = 'https://github.com/Geemkuu/Cheems11' //script link
 global.packname = "Sticker By"
-global.author = "gee\n\n+254794286079"
+global.author = "꧁༒☬gee☬༒꧂\n\n+254794286079"
 global.creator = "254794286079@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["254794286079"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v8' // menu type 'v1' => 'v8'
-global.typereply = 'v2' // reply type 'v1' => 'v3'
+global.typemenu = 'v7' // menu type 'v1' => 'v8'
+global.typereply = 'v3' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups

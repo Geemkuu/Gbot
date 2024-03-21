@@ -21,17 +21,17 @@ global.location = "Africa,Kenya,Nairobi" //ur location
 //new
 global.botname = '★彡ＮＯＮＳＥＮＳＥ 彡★' //ur bot name
 global.ownernumber = '254794286079' //ur owner number
-global.ownername =  '꧁༒☬gee☬༒꧂' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://chat.whatsapp.com/DSQwxQR6Nww8cM5SDZbLNl"
-global.themeemoji = '😂'
+global.ownername =  'Great Grogney' //ur owner name
+global.websitex = "https://wa.me/254794286079?hey+gee+the+greatest"
+global.wagc = "https://wa.me/c/254794286079?text=hey+gee+the+greatest"
+global.themeemoji = '↩️'
 global.wm = "🇬 🇪 🇪 ."
 global.botscript = 'https://github.com/Geemkuu/Cheems11' //script link
 global.packname = "Sticker By"
 global.author = "꧁༒☬gee☬༒꧂\n\n+254794286079"
 global.creator = "254794286079@s.whatsapp.net"
 global.xprefix = '!'
-global.premium = ["254794286079"] // Premium User
+global.premium = ["254101320646"] // Premium User
 global.hituet = 0
 
 //bot sett

@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/Geemkuu/Cheems11' //script link
 global.packname = "Sticker By"
 global.author = "꧁༒☬gee☬༒꧂\n\n+254794286079"
 global.creator = "254794286079@s.whatsapp.net"
-global.xprefix = ''
+global.xprefix = '!'
 global.premium = ["254794286079"] // Premium User
 global.hituet = 0
 

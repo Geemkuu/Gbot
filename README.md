@@ -16,7 +16,7 @@ G bot is a bot created to provide with the best moment in Whatsapp<a href="https
 # ```Connect With the guy```
 <a href="https://whatsapp.com/chat/254794286079?text=hey+gee"/>
 
-href="https://www.instagram.com/gee.mkuu"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/gee.mkuu"/><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 

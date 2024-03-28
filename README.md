@@ -1,6 +1,6 @@
  
 
-<h1 align="center">▀▄▀▄▀▄🄶🄱🄾🅃▀▄▀▄▀▄<br></h1>
+<h2 align="center">▀▄▀▄▀▄🄶🄱🄾🅃▀▄▀▄▀▄<br></h2>
 <p align="center">
 <img src="https://textpro.me/images/user_image/2024/03/6605741fad46d.jpg" />
 </p>
@@ -51,7 +51,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD11.git
+git clone https://github.com/Geemkuu/Gbot.git
 cd CheemsBot-MD11
 
 npm start
